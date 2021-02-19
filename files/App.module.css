@@ -1,0 +1,172 @@
+.container {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.blue_text {
+  color: rgb(46, 112, 204);
+}
+
+.orange_text {
+  color: rgb(255, 137, 52);
+}
+
+.sortPanel {
+  width: 20%;
+  margin-left: 5%;
+  padding-top: 4%;
+  background-color: rgb(189, 189, 189);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sortPanel > div {
+  background-color: #ffffff;
+}
+
+.list_panel {
+  width: 75%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sort_block, .company_block, .filter_block, .price_block {
+  width: 90%;
+}
+
+.sort_input, .company_input, .filter_input, .price_input {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.card_block {
+  width: 95%;
+  margin: 5px;
+  background-color: rgb(255, 255, 255);
+}
+
+.card_block_header {
+  width: 100%;
+  height: 46px;
+  color: #ffffff;
+  background-color: rgb(101, 134, 253);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.card_block_header>div {
+  margin: 2px;
+  text-align: right;
+}
+
+.price_adult {
+  display: block;
+  justify-content: right;
+}
+
+.price_adult .for_adult {
+  font-size: 10px;
+}
+
+.card_block_info {
+  width: 100%;
+  background-color: #ffffff;
+}
+
+.card_block_info>div {
+  width: 100%;
+  height: 120px;
+}
+
+.arrival_block {
+  border-bottom: 1px solid blue;
+}
+
+.deport_block {
+  border-top: 1px solid blue;
+}
+
+.arrival_block, .deport_block {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.time_block {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.transfer_message {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.transfer_message span {
+  position: relative;
+  align-items: center;
+}
+
+.transfer_message span:after {
+  display: block;
+  width: 100%;
+  content: '';
+  position: absolute;
+  border-bottom: 1px solid #000;
+  top: 50%;
+  left: 110px;
+}
+
+.transfer_message span:before {
+  display: block;
+  width: 100%;
+  content: '';
+  position: absolute;
+  border-bottom: 1px solid #000;
+  top: 50%;
+  right: 110px;
+}
+
+.line {
+  display: block;
+  height: 1px;
+  margin: 8px auto;
+  background-color: #000;
+  width: 35%;
+  content: '';
+  position: absolute;
+  
+  align-items: center;
+  top: 50%;
+}
+
+.card_btn_block {
+  width: 100%;
+  height: 40px;
+}
+
+.card_btn {
+  width: 100%;
+  height: 100%;
+  color: #ffffff;
+  background-color: rgb(255, 137, 52);
+  border: none;
+}
+
+.card_btn:hover {
+  cursor: pointer;
+}
+
+.sort_block, .price_block, .filter_block, .company_block {
+  padding: 1%;
+}
