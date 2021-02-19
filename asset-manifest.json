@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TestAviaFlightReactPractice.git/static/css/main.f0bb8559.chunk.css",
+    "main.js": "/TestAviaFlightReactPractice.git/static/js/main.fd076e2d.chunk.js",
+    "main.js.map": "/TestAviaFlightReactPractice.git/static/js/main.fd076e2d.chunk.js.map",
+    "runtime-main.js": "/TestAviaFlightReactPractice.git/static/js/runtime-main.aa97a668.js",
+    "runtime-main.js.map": "/TestAviaFlightReactPractice.git/static/js/runtime-main.aa97a668.js.map",
+    "static/js/2.639965a0.chunk.js": "/TestAviaFlightReactPractice.git/static/js/2.639965a0.chunk.js",
+    "static/js/2.639965a0.chunk.js.map": "/TestAviaFlightReactPractice.git/static/js/2.639965a0.chunk.js.map",
+    "static/js/3.ca520fb8.chunk.js": "/TestAviaFlightReactPractice.git/static/js/3.ca520fb8.chunk.js",
+    "static/js/3.ca520fb8.chunk.js.map": "/TestAviaFlightReactPractice.git/static/js/3.ca520fb8.chunk.js.map",
+    "index.html": "/TestAviaFlightReactPractice.git/index.html",
+    "static/css/main.f0bb8559.chunk.css.map": "/TestAviaFlightReactPractice.git/static/css/main.f0bb8559.chunk.css.map",
+    "static/js/2.639965a0.chunk.js.LICENSE.txt": "/TestAviaFlightReactPractice.git/static/js/2.639965a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa97a668.js",
+    "static/js/2.639965a0.chunk.js",
+    "static/css/main.f0bb8559.chunk.css",
+    "static/js/main.fd076e2d.chunk.js"
+  ]
+}
